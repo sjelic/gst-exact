@@ -1,0 +1,8 @@
+Academic license - for non-commercial use only
+14_EUCLID_n=190_m=1999_k=21.stp 190 1999 21 0.021134 2189 4210 9.25356 209
+
+Feasibility: 1
+Academic license - for non-commercial use only
+14_GRID_n=190_m=2067_k=15.stp 190 2067 15 0.015251 2257 4340 3.52068 236
+
+Feasibility: 1

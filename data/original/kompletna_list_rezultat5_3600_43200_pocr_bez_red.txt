@@ -1,0 +1,22 @@
+Academic license - for non-commercial use only
+15_EUCLID_n=200_m=5547_k=14.stp 200 5547 14 0.039884 5747 11309 255.038 83
+
+Feasibility: 1
+Academic license - for non-commercial use only
+15_GRID_n=200_m=6120_k=22.stp 200 6120 22 0.033966 6320 12463 4616.28 135
+
+Feasibility: 1
+Academic license - for non-commercial use only
+15_RANDOM_n=200_m=3886_k=48.stp 200 3886 48 0.030033 4086 8021 20.2507 294
+
+Feasibility: 1
+Academic license - for non-commercial use only
+16_EUCLID_n=210_m=8611_k=13.stp 210 8611 13 0.042141 8821 17446 4.37095 48
+
+Feasibility: 1
+Academic license - for non-commercial use only
+16_GRID_n=210_m=5821_k=47.stp 210 5821 47 0.032704 6031 11900 >=7200 sec.
+ ... OPENING FILE FAILED ... EXIT.
+
+
+Feasibility: 0

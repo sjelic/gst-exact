@@ -1,0 +1,46 @@
+
+Gurobi 7.5.2 (linux64, C++) logging started Fri Mar  9 21:08:47 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 643 rows, 348 columns and 2118 nonzeros
+Variable types: 0 continuous, 348 integer (348 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 377
+
+Presolve removed 6 rows and 1 columns
+Presolve time: 0.00s
+Presolved: 637 rows, 347 columns, 2106 nonzeros
+Variable types: 0 continuous, 347 integer (347 binary)
+
+Root relaxation: objective 2.300000e+02, 161 iterations, 0.00 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  234.33333    0   24  377.00000  234.33333  37.8%     -    0s
+     0     0  238.16667    0   33  377.00000  238.16667  36.8%     -    0s
+H    0     0                     270.0000000  238.16667  11.8%     -    0s
+H    0     0                     264.0000000  238.16667  9.79%     -    0s
+     0     0  240.50000    0   32  264.00000  240.50000  8.90%     -    0s
+     0     0  240.50000    0   21  264.00000  240.50000  8.90%     -    0s
+H    0     0                     245.0000000  240.50000  1.84%     -    0s
+     0     0  240.50000    0   20  245.00000  240.50000  1.84%     -    0s
+     0     0  240.50000    0    7  245.00000  240.50000  1.84%     -    0s
+     0     0  241.50000    0    3  245.00000  241.50000  1.43%     -    0s
+*    0     0               0     243.0000000  243.00000  0.00%     -    0s
+
+Cutting planes:
+  Lazy constraints: 9
+
+Explored 1 nodes (527 simplex iterations) in 0.06 seconds
+Thread count was 1 (of 16 available processors)
+
+Solution count 5: 243 245 264 ... 377
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 2.430000000000e+02, best bound 2.430000000000e+02, gap 0.0000%

@@ -1,0 +1,3 @@
+06_EUCLID_n=10_m=33_k=3_B=10.stp
+06_GRID_n=10_m=36_k=3_B=10.stp
+06_RANDOM_n=10_m=30_k=3_B=10.stp

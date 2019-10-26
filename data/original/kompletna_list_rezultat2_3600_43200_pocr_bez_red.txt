@@ -1,0 +1,42 @@
+Academic license - for non-commercial use only
+07_EUCLID_n=120_m=651_k=15.stp 120 651 15 0.009658 771 1438 0.297514 259
+
+Feasibility: 1
+Academic license - for non-commercial use only
+07_GRID_n=120_m=1849_k=15.stp 120 1849 15 0.00964 1969 3834 266.848 234
+
+Feasibility: 1
+Academic license - for non-commercial use only
+07_RANDOM_n=120_m=2778_k=16.stp 120 2778 16 0.015205 2898 5693 0.081378 28
+
+Feasibility: 1
+Academic license - for non-commercial use only
+08_EUCLID_n=130_m=2853_k=28.stp 130 2853 28 0.01393 2983 5865 2.52802 466
+
+Feasibility: 1
+Academic license - for non-commercial use only
+08_GRID_n=130_m=444_k=15.stp 130 444 15 0.004874 574 1034 0.047194 372
+
+Feasibility: 1
+Academic license - for non-commercial use only
+08_RANDOM_n=130_m=2994_k=8.stp 130 2994 8 0.016383 3124 6127 0.424042 15
+
+Feasibility: 1
+Academic license - for non-commercial use only
+09_EUCLID_n=140_m=2579_k=26.stp 140 2579 26 0.01365 2719 5325 2.00623 380
+
+Feasibility: 1
+Academic license - for non-commercial use only
+09_GRID_n=140_m=3114_k=23.stp 140 3114 23 0.015093 3254 6392 2528.81 263
+
+Feasibility: 1
+Academic license - for non-commercial use only
+09_RANDOM_n=140_m=2751_k=30.stp 140 2751 30 0.016852 2891 5673 0.830747 91
+
+Feasibility: 1
+Academic license - for non-commercial use only
+10_EUCLID_n=150_m=3721_k=26.stp 150 3721 26 0.017778 3871 7619 978.904 243
+
+Feasibility: 1
+
+GLOBAL TIME-LIMIT OF 3600 sec. EXCEEDED. EXIT.

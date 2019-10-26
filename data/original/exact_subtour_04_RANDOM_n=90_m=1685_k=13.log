@@ -1,0 +1,35 @@
+
+Gurobi 7.5.2 (linux64, C++) logging started Fri Mar  9 21:10:50 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 3474 rows, 1775 columns and 12040 nonzeros
+Variable types: 0 continuous, 1775 integer (1775 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 43
+
+Presolve time: 0.01s
+Presolved: 3474 rows, 1775 columns, 12040 nonzeros
+Variable types: 0 continuous, 1775 integer (1775 binary)
+
+Root relaxation: objective 2.900862e+01, 348 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0   29.00862    0   76   43.00000   29.00862  32.5%     -    0s
+H    0     0                      33.0000000   29.00862  12.1%     -    0s
+     0     0   30.53571    0   60   33.00000   30.53571  7.47%     -    0s
+     0     0   31.25000    0   27   33.00000   31.25000  5.30%     -    0s
+
+Explored 1 nodes (423 simplex iterations) in 0.07 seconds
+Thread count was 1 (of 16 available processors)
+
+Solution count 2: 33 43 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.300000000000e+01, best bound 3.300000000000e+01, gap 0.0000%

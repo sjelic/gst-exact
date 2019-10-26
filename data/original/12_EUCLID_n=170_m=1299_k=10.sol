@@ -1,0 +1,10 @@
+SECTION Graph
+Nodes 170
+Edges 6
+E 0 51 9
+E 16 51 19
+E 51 67 8
+E 67 104 9
+E 92 99 32
+E 99 104 45
+END

@@ -1,0 +1,65 @@
+Academic license - for non-commercial use only
+01_EUCLID_n=60_m=665_k=6.stp 60 665 6 0.011563 725 1397 0.051148 89
+
+Feasibility: 1
+Academic license - for non-commercial use only
+01_GRID_n=60_m=685_k=9.stp 60 685 9 0.003669 745 1440 0.584814 131
+
+Feasibility: 1
+Academic license - for non-commercial use only
+01_RANDOM_n=60_m=462_k=11.stp 60 462 11 0.003161 522 996 0.021486 77
+
+Feasibility: 1
+Academic license - for non-commercial use only
+02_EUCLID_n=70_m=830_k=16.stp 70 830 16 0.004336 900 1747 0.851072 252
+
+Feasibility: 1
+Academic license - for non-commercial use only
+02_GRID_n=70_m=1061_k=9.stp 70 1061 9 0.005135 1131 2202 5.07124 178
+
+Feasibility: 1
+Academic license - for non-commercial use only
+02_RANDOM_n=70_m=278_k=16.stp 70 278 16 0.002743 348 643 0.058431 243
+
+Feasibility: 1
+Academic license - for non-commercial use only
+03_EUCLID_n=80_m=617_k=12.stp 80 617 12 0.003967 697 1327 1.10474 231
+
+Feasibility: 1
+Academic license - for non-commercial use only
+03_GRID_n=80_m=1122_k=7.stp 80 1122 7 0.005548 1202 2332 0.594319 85
+
+Feasibility: 1
+Academic license - for non-commercial use only
+03_RANDOM_n=80_m=449_k=12.stp 80 449 12 0.003665 529 991 0.020226 53
+
+Feasibility: 1
+Academic license - for non-commercial use only
+04_EUCLID_n=90_m=1355_k=14.stp 90 1355 14 0.007305 1445 2815 11.8991 156
+
+Feasibility: 1
+Academic license - for non-commercial use only
+04_GRID_n=90_m=1693_k=15.stp 90 1693 15 0.007814 1783 3492 108.479 197
+
+Feasibility: 1
+Academic license - for non-commercial use only
+04_RANDOM_n=90_m=1685_k=13.stp 90 1685 13 0.008888 1775 3474 0.071791 33
+
+Feasibility: 1
+Academic license - for non-commercial use only
+05_EUCLID_n=100_m=2187_k=22.stp 100 2187 22 0.00973 2287 4497 1117.24 239
+
+Feasibility: 1
+Academic license - for non-commercial use only
+05_GRID_n=100_m=1065_k=23.stp 100 1065 23 0.006513 1165 2254 2.63395 671
+
+Feasibility: 1
+Academic license - for non-commercial use only
+05_RANDOM_n=100_m=1734_k=11.stp 100 1734 11 0.009436 1834 3580 0.078003 31
+
+Feasibility: 1
+Academic license - for non-commercial use only
+06_EUCLID_n=110_m=1827_k=10.stp 110 1827 10 0.009214 1937 3775 1.13724 69
+
+Feasibility: 1
+Academic license - for non-commercial use only

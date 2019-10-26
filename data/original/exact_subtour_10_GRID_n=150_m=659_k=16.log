@@ -1,0 +1,47 @@
+
+Gurobi 7.5.2 (linux64, C++) logging started Sat Mar 10 09:30:21 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 1485 rows, 809 columns and 4993 nonzeros
+Variable types: 0 continuous, 809 integer (809 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [1e+00, 2e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 404
+
+Presolve removed 2 rows and 1 columns
+Presolve time: 0.00s
+Presolved: 1483 rows, 808 columns, 4987 nonzeros
+Variable types: 0 continuous, 808 integer (808 binary)
+
+Root relaxation: objective 2.678000e+02, 405 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  267.80000    0   57  404.00000  267.80000  33.7%     -    0s
+     0     0  300.33333    0   56  404.00000  300.33333  25.7%     -    0s
+     0     0  301.50000    0   57  404.00000  301.50000  25.4%     -    0s
+     0     0  303.04545    0   78  404.00000  303.04545  25.0%     -    0s
+     0     0  303.53333    0   75  404.00000  303.53333  24.9%     -    0s
+     0     0  303.66667    0   62  404.00000  303.66667  24.8%     -    0s
+     0     0  303.66667    0   62  404.00000  303.66667  24.8%     -    0s
+H    0     0                     305.0000000  303.66667  0.44%     -    0s
+     0     0  303.66667    0   62  305.00000  303.66667  0.44%     -    0s
+
+Cutting planes:
+  Gomory: 2
+  Zero half: 5
+  Mod-K: 1
+  Lazy constraints: 65
+
+Explored 1 nodes (606 simplex iterations) in 0.23 seconds
+Thread count was 1 (of 16 available processors)
+
+Solution count 2: 305 404 
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 3.050000000000e+02, best bound 3.050000000000e+02, gap 0.0000%

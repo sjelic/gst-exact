@@ -1,0 +1,52 @@
+
+Gurobi 7.5.2 (linux64, C++) logging started Fri Mar  9 21:08:49 2018
+
+Academic license - for non-commercial use only
+Optimize a model with 2815 rows, 1445 columns and 9721 nonzeros
+Variable types: 0 continuous, 1445 integer (1445 binary)
+Coefficient statistics:
+  Matrix range     [1e+00, 1e+00]
+  Objective range  [3e+00, 1e+02]
+  Bounds range     [1e+00, 1e+00]
+  RHS range        [1e+00, 1e+00]
+
+Loaded MIP start with objective 221
+
+Presolve time: 0.01s
+Presolved: 2815 rows, 1445 columns, 9721 nonzeros
+Variable types: 0 continuous, 1445 integer (1445 binary)
+
+Root relaxation: objective 1.095455e+02, 293 iterations, 0.01 seconds
+
+    Nodes    |    Current Node    |     Objective Bounds      |     Work
+ Expl Unexpl |  Obj  Depth IntInf | Incumbent    BestBd   Gap | It/Node Time
+
+     0     0  109.54545    0   29  221.00000  109.54545  50.4%     -    0s
+     0     0  124.10714    0   44  221.00000  124.10714  43.8%     -    0s
+     0     0  126.90323    0   68  221.00000  126.90323  42.6%     -    0s
+     0     0  127.44643    0   80  221.00000  127.44643  42.3%     -    0s
+     0     0  128.21795    0   44  221.00000  128.21795  42.0%     -    0s
+     0     0  129.64545    0  134  221.00000  129.64545  41.3%     -    0s
+     0     2  129.77703    0  134  221.00000  129.77703  41.3%     -    0s
+*  488   411             155     184.0000000  133.33333  27.5%  11.3    1s
+H  517   409                     174.0000000  134.32996  22.8%  12.0    1s
+H  536   401                     166.0000000  134.32996  19.1%  13.4    4s
+   557   415  166.00000  114  167  166.00000  135.08446  18.6%  12.9    5s
+*  822   460              53     164.0000000  139.30985  15.1%  19.7    8s
+  1348   517  147.14414   41  126  164.00000  145.10811  11.5%  23.0   10s
+* 1547   430              86     160.0000000  146.14286  8.66%  23.2   10s
+H 1976   239                     156.0000000  149.00000  4.49%  23.5   11s
+
+Cutting planes:
+  Gomory: 6
+  Flow cover: 9
+  Zero half: 19
+  Lazy constraints: 504
+
+Explored 2449 nodes (54793 simplex iterations) in 11.90 seconds
+Thread count was 1 (of 16 available processors)
+
+Solution count 7: 156 160 164 ... 221
+
+Optimal solution found (tolerance 1.00e-04)
+Best objective 1.560000000000e+02, best bound 1.560000000000e+02, gap 0.0000%

@@ -1,0 +1,13 @@
+SECTION Graph
+Nodes 60
+Edges 9
+E 3 31 12
+E 3 44 9
+E 3 57 10
+E 5 16 30
+E 5 41 19
+E 6 7 23
+E 6 57 2
+E 31 41 20
+E 31 49 6
+END

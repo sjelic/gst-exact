@@ -1,0 +1,2 @@
+03_EUCLID_n=80_m=617_k=12_red.stp
+04_GRID_n=90_m=1693_k=15_red.stp

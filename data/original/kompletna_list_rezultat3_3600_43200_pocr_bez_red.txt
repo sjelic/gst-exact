@@ -1,0 +1,42 @@
+Academic license - for non-commercial use only
+10_GRID_n=150_m=659_k=16.stp 150 659 16 0.010296 809 1485 0.227615 305
+
+Feasibility: 1
+Academic license - for non-commercial use only
+10_RANDOM_n=150_m=3141_k=18.stp 150 3141 18 0.019608 3291 6451 0.247647 42
+
+Feasibility: 1
+Academic license - for non-commercial use only
+11_EUCLID_n=160_m=2642_k=29.stp 160 2642 29 0.015166 2802 5474 45.8349 415
+
+Feasibility: 1
+Academic license - for non-commercial use only
+11_GRID_n=160_m=1094_k=23.stp 160 1094 23 0.009479 1254 2372 4.21115 442
+
+Feasibility: 1
+Academic license - for non-commercial use only
+11_RANDOM_n=160_m=1118_k=18.stp 160 1118 18 0.017017 1278 2415 0.249601 72
+
+Feasibility: 1
+Academic license - for non-commercial use only
+12_EUCLID_n=170_m=1299_k=10.stp 170 1299 10 0.010641 1469 2779 1.58046 122
+
+Feasibility: 1
+Academic license - for non-commercial use only
+12_GRID_n=170_m=5901_k=26.stp 170 5901 26 0.025965 6071 11999 >=7200 sec.
+ ... OPENING FILE FAILED ... EXIT.
+
+
+Feasibility: 0
+Academic license - for non-commercial use only
+12_RANDOM_n=170_m=1309_k=9.stp 170 1309 9 0.012604 1479 2798 0.074972 27
+
+Feasibility: 1
+Academic license - for non-commercial use only
+13_EUCLID_n=180_m=2398_k=10.stp 180 2398 10 0.016011 2578 4987 0.472475 56
+
+Feasibility: 1
+Academic license - for non-commercial use only
+13_GRID_n=180_m=3160_k=18.stp 180 3160 18 0.018213 3340 6519 12.3582 177
+
+Feasibility: 1
